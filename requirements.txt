@@ -1,0 +1,7 @@
+# requirements.txt — Python dependencies for the Spotify Pixel Art application
+#
+# Install with:
+#   pip install -r requirements.txt
+spotipy>=2.23.0       # Spotify Web API wrapper (OAuth, endpoints)
+Pillow>=10.0.0        # Image processing (download, resize, quantise, save)
+requests>=2.31.0      # HTTP library used to download album artwork
