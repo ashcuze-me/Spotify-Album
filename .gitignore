@@ -1,3 +1,12 @@
+# Secrets
+.env
+
+# Generated images
+output/
+generated/
+pixel_album.png
+cover.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
